@@ -8,4 +8,6 @@ $$c_n=\int_0^1{f(t)e^{-n \cdot 2\pi i t} dt}$$
 
 So $f(t)$ can be viewed as a (possibly infinite) sum of rotating vectors $e^{n \cdot 2\pi i t}$. Each vector rotates at a different but uniform angular velocity determined by $n$. Each vector is also scaled by the complex coefficient $c_n$, which means that its length is scaled by $|c_n|$, and that its starting angle is given by $\arg(c_n)$.
 
-![N=200](https://github.com/mfclabber/Fourier-drawing/assets/118126641/70d4750c-13a7-47de-82f0-1e41bcb203bc)
+<p align="center" width="100%">
+    <img width="100%" src="N=200.gif">
+</p>
